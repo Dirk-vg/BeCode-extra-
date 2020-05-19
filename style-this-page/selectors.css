@@ -1,0 +1,57 @@
+body {
+    background-color: #bdc3c7;
+}
+
+#special::first-letter {
+    font-size: 100px;
+}
+
+h1 {
+    color: #9b59b6;
+}
+
+h1:hover {
+    color: royalblue;
+}
+
+h2 {
+    color: orange;
+}
+
+li {
+    color: #42709e;
+}
+
+p {
+    background-color: yellow;
+}
+
+
+
+.hello {
+    background-color: #fff;
+}
+
+#special {
+    border: 2px solid rgb(48, 174, 242);
+}
+
+div, p {
+    font-size: 25px;
+}
+
+label {
+    text-transform: uppercase;
+}
+
+a:visited {
+    color: grey;
+}
+
+:checked {
+    margin-left: 50px;
+}
+
+input[type="text"] {
+    background: gray;
+    }
